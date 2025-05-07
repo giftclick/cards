@@ -373,10 +373,6 @@ footer>p {
   margin-left: -35px;
 }
 
-#BW {
-  filter: grayscale(100%);
-}
-
 .vestimenta-container {
   display: flex;
   align-items: center;
